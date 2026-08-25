@@ -51,7 +51,7 @@
 ---
 
 ## 🌍 Live Demo
-🔗 [Redux-TodoList App](https://redux-todo-list-beige.vercel.app/)
+🔗 [Redux-TodoList App](https://redux-todo-list-mqkj1cg9n-sairajpatil035-1057s-projects.vercel.app/)
 
 ---
 <br/> <br/>
